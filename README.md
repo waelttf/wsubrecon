@@ -1,7 +1,3 @@
-# wsubrecon 🔍
-
-
-`wsubrecon` is a powerful subdomain enumeration and live probing tool written in Go. It combines multiple reconnaissance tools and data sources to comprehensively discover subdomains and identify live hosts.
 
 ## Features ✨
 
