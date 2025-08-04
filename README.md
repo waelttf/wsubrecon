@@ -1,6 +1,6 @@
 `wsubrecon` is a powerful subdomain enumeration and live probing tool written in Go. It combines multiple reconnaissance tools and data sources to comprehensively discover subdomains and identify live hosts.
 
-## Features ✨
+## Features 
 
 - **Comprehensive Subdomain Enumeration** using:
   - [Subfinder](https://github.com/projectdiscovery/subfinder)
@@ -17,7 +17,7 @@
   - Saves raw and processed results
   - Generates clean final list of live subdomains
 
-## Installation 📥
+## Installation 
 
 ### Prerequisites
 
@@ -39,7 +39,7 @@ cd wsubrecon
 go build -o wsubrecon main.go
 ```
 
-## Usage 🚀
+## Usage 
 
 ### Basic Command
 
